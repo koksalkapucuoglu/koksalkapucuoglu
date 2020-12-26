@@ -1,7 +1,13 @@
 ### Hi there 👋
 
-- [Twitter](https://www.linkedin.com/in/köksal-kapucuoğlu-664912120/) 
-- [Blog](https://protected-badlands-34586.herokuapp.com/)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/köksal-kapucuoğlu-664912120/)
+[![](https://img.shields.io/badge/Blog-%20-orange](https://protected-badlands-34586.herokuapp.com/)
+
+- 🔭 I’m currently working on Rigel Technology
+- 🌱 I’m currently learning Image Processing and Web Development
+
+[![github stats](https://github-readme-stats.vercel.app/api?username=koksalkapucuoglu&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **koksalkapucuoglu/koksalkapucuoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,17 +24,4 @@ Here are some ideas to get you started:
 -->
 
 
-## Stats
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=koksalkapucuoglu&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koksalkapucuoglu)](https://github.com/anuraghazra/github-readme-stats)
-
-## Languages
-
-- **Python**
-- C
-- Javascript
-
-## Technologies
-
-- **Django**
