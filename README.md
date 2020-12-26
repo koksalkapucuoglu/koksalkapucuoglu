@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/köksal-kapucuoğlu-664912120/)
-[![](https://img.shields.io/badge/Blog-%20-orange](https://protected-badlands-34586.herokuapp.com/)
+[![](https://img.shields.io/badge/Blog-%20-orange)](https://protected-badlands-34586.herokuapp.com/)
 
 - 🔭 I’m currently working on Rigel Technology
 - 🌱 I’m currently learning Image Processing and Web Development
