@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/Blog-%20-orange)](https://protected-badlands-34586.herokuapp.com/)
 
 - 🔭 I’m currently working on Django
-- 🌱 I’m currently learning Image Processing and Web Development
+- 🌱 I’m currently learning Web Development and Machine Learning
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=koksalkapucuoglu&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
