@@ -2,8 +2,7 @@
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/köksal-kapucuoğlu-664912120/)
 
-- 🔭 I’m currently working on Django
-- 🌱 I’m currently learning Web Development and Deep Learning
+- 🔭 I’m currently working on Django Rest Framework
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=koksalkapucuoglu&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
